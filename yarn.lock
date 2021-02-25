@@ -1036,9 +1036,9 @@ dictionary-en-au@^2.1.1:
   integrity sha512-D/hdEiaahdX4Bpb6mf3M8B1IvuB/c+nXMAWSuF7L0vh6nDq2qy8UYF2vDzS88KJ+rSPPsjQOg+rhCHvB7YNRHw==
 
 dictionary-en-gb@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/dictionary-en-gb/-/dictionary-en-gb-2.1.1.tgz#54ad869db394bf3a9ae67faef5f69ec35d4cf088"
-  integrity sha512-G9jAkpXtSpkdllzojfcVAWy0KBCR/MzyYHA9p2So+fJXAN2yrR0LXacdcRweswiV3aNnaf+krTk0M4I+d5RKMw==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/dictionary-en-gb/-/dictionary-en-gb-2.3.0.tgz#f6aa1948350615507e39a4c3cae950caa681df52"
+  integrity sha512-P/J2VQp/hDsMTfJhmIYPUBxZqezWuDaUzSgb6oW7JLpUV2So9jCXbR5TaUYXwfO50ZXPYEzQqQHPQK3pKcs7Rg==
 
 dictionary-en-us@^2.1.1:
   version "2.1.1"
