@@ -1031,9 +1031,9 @@ detect-newline@^2.1.0:
   integrity sha1-9B8cEL5LAOh7XxPaaAdZ8sW/0+I=
 
 dictionary-en-au@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/dictionary-en-au/-/dictionary-en-au-2.1.1.tgz#0296bfdffc7f6e8057802877563935d60f8d667c"
-  integrity sha512-D/hdEiaahdX4Bpb6mf3M8B1IvuB/c+nXMAWSuF7L0vh6nDq2qy8UYF2vDzS88KJ+rSPPsjQOg+rhCHvB7YNRHw==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/dictionary-en-au/-/dictionary-en-au-2.3.0.tgz#261e8e8d0bd776afcf7ff49722815656438d5be9"
+  integrity sha512-KoEotpXPCyCgZ5DHlexHyzFfNwPnv9VupeCrp6r+JrtEkycPmZYbQiXF+cXz9NJr1gXy0AMEpzZ8UfxF40+8OQ==
 
 dictionary-en-gb@^2.1.1:
   version "2.1.1"
